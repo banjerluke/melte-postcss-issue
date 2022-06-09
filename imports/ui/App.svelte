@@ -20,3 +20,11 @@
     <li><a href="https://forums.meteor.com" target="_blank">Discussions</a></li>
   </ul>
 </div>
+
+<style lang="postcss">
+  .container {
+    h1 {
+      color: red;
+    }
+  }
+</style>

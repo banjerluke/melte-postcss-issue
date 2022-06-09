@@ -23,5 +23,8 @@
     "postcss": "^8.4.14",
     "postcss-load-config": "^4.0.1",
     "postcss-nested": "^5.0.6"
+  },
+  "svelte:compiler": {
+    "css": false
   }
 }

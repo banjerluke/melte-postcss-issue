@@ -18,5 +18,10 @@
       "server": "server/main.js"
     },
     "testModule": "tests/main.js"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.14",
+    "postcss-load-config": "^4.0.1",
+    "postcss-nested": "^5.0.6"
   }
 }
